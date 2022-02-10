@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1627123945 source:f:\code\new folder\project\beamanalysis\main.cpp
+	<bits/stdc++.h>
+
+1627122573 f:\code\new folder\project\beamanalysis\include\beamcalc.h
+	<bits/stdc++.h>
+	<string>
+
+1627122520 source:f:\code\new folder\project\beamanalysis\src\beamcalc.cpp
+
